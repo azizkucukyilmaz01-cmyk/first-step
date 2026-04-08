@@ -5,4 +5,4 @@ print("Merhaba, ben kod yazmaya başladım!")
 if you have >= a car:
 print("you can travel where you like.")
 else:
-print("you cannot nowhere."
+print("you cannot go nowhere."
